@@ -11,7 +11,7 @@ def main():
     evaluator = SetRelationshipEvaluator()
     relationship = evaluator.check_relationship(set_a, set_b)
 
-    # Print the result:
+    # Print the result::
     pretty_print_result(relationship)
 
     # Visualize the result
