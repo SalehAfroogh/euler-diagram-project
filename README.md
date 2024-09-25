@@ -1,6 +1,10 @@
 
 # Euler Diagram Project
 
+![GitHub stars](https://img.shields.io/github/stars/Salehafroogh/euler-diagram-project?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Salehafroogh/euler-diagram-project?style=social)
+
+
 This project evaluates relationships between two sets based on Euler diagrams and visualizes the results. It supports common set relationships such as subset, disjoint, intersection, and more, and uses Euler diagrams (Venn-style) to illustrate them.
 
 ## Table of Contents
